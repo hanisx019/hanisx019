@@ -26,7 +26,7 @@ Let’s connect if you're passionate about building great things on the web or l
 
 ## Skills & Technologies
 
-js,tailwind,react,mongodb,express,nextjs,github,git
+js,tailwind,react,mongodb,express,nextjs,github,git,bootstrap
 
 ## Projects ( Currently Working ) :
 
@@ -67,7 +67,11 @@ js,tailwind,react,mongodb,express,nextjs,github,git
 
 ## 
 
-888888 88   88 88     88         .dP"Y8 888888    db     dP""b8 88  dP     8888b.  888888 Yb    dP 888888 88      dP"Yb  88""Yb 888888 88""Yb 
-88__   88   88 88     88         `Ybo."   88     dPYb   dP   `" 88odP       8I  Yb 88__    Yb  dP  88__   88     dP   Yb 88__dP 88__   88__dP 
-88""   Y8   8P 88  .o 88  .o     o.`Y8b   88    dP__Yb  Yb      88"Yb       8I  dY 88""     YbdP   88""   88  .o Yb   dP 88"""  88""   88"Yb  
-88     `YbodP' 88ood8 88ood8     8bodP'   88   dP""""Yb  YboodP 88  Yb     8888Y"  888888    YP    888888 88ood8  YbodP  88     888888 88  Yb 
+```
+  _                 _           ___  _  ___  
+ | |__   __ _ _ __ (_)_____  __/ _ \/ |/ _ \ 
+ | '_ \ / _` | '_ \| / __\ \/ / | | | | (_) |
+ | | | | (_| | | | | \__ \>  <| |_| | |\__, |
+ |_| |_|\__,_|_| |_|_|___/_/\_\\___/|_|  /_/ 
+                                             
+```
