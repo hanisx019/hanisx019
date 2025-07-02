@@ -49,7 +49,7 @@ js,tailwind,react,mongodb,express,nextjs,github,git,bootstrap
 
 ## Connect :
 
-{"linkedin":"https://linkedin.com/in/mohammedhanis","instagram":"https://www.instagram.com/md.hanisx","twitter":"https://x.com/hanisx019"}
+"linkedin":"https://linkedin.com/in/mohammedhanis","instagram":"https://www.instagram.com/md.hanisx","twitter":"https://x.com/hanisx019"
 
 ## Certifications
 
