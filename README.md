@@ -26,7 +26,7 @@ Let’s connect if you're passionate about building great things on the web or l
 
 ## Skills & Technologies
 
-js,tailwind,react,mongodb,express,nextjs,github,git,bootstrap
+JavaScript , Tailwindcss , React, MongoDB ,Express , NextJS , Github , Git , Bootstrap
 
 ## Projects ( Currently Working ) :
 
@@ -47,9 +47,7 @@ js,tailwind,react,mongodb,express,nextjs,github,git,bootstrap
 - 🌟 Started following new repositories related to Web3.
 - 🔍 Contributed to discussions in various open-source projects.
 
-## Connect :
 
-"linkedin":"https://linkedin.com/in/mohammedhanis","instagram":"https://www.instagram.com/md.hanisx","twitter":"https://x.com/hanisx019"
 
 ## Certifications
 
