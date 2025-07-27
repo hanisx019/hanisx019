@@ -1,75 +1,66 @@
-## Hey ,
+![Greetings , I'm Mohammed Hanis](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1> I'm Mohamme Hanis</h1>
-<h4>Full Stack Developer | MERN Stack Enthusiast | Figma | Focused on Building Scalable Full Stack Projects | Open To Opportunities</h4>
-
-
-## 
-
-<h4>About  </h4>
-🚀 I’m a Full Stack Developer driven by the passion to build scalable, high-performance, and user-centric web applications. With hands-on experience in both front-end and back-end development, I specialize in creating seamless digital experiences using the MERN stack and modern UI frameworks.
-
-🔧 Core Expertise
-• Front-End: JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS
-• Back-End: Node.js, Express.js
-• Database: MongoDB
-• Tools & Practices: Git, RESTful APIs,Deployment Workflows.
-
-🛠️ What I Bring to the Table
-• Crafting responsive & intuitive UI designs
-• Building secure & scalable REST APIs
-• Clean code architecture & maintainable solutions
-• Performance tuning & optimization
-• Collaboration in version-controlled, agile environments
-
-Let’s connect if you're passionate about building great things on the web or looking for a team player with a builder’s mindset.
-
-## Skills & Technologies
-
-JavaScript , Tailwindcss , React, MongoDB ,Express , NextJS , Github , Git , Bootstrap
-
-## Projects ( Currently Working ) :
-
-- [Spotify-Clone](https://github.com/hanisx019/Spotify-Clone): A Spotify clone application built using modern web technologies. This project replicates core Spotify features like music playback, playlists, authentication, and UI design. ⭐️ 1 star | Language: HTML | Forks: 0 | Issues: 0
-
-
-## Github Stats :
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanisx019&show_icons=true&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=hanisx019&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hanis....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 
-## Recent Acts :
-
-- 🛠️ Pushed updates to **Spotify-Clone**.
-- 🔄 Opened and closed a pull request in **Open Source Contribution**.
-- 📚 Modified README in **hanisx019** repository.
-- 🌟 Started following new repositories related to Web3.
-- 🔍 Contributed to discussions in various open-source projects.
+<p align="center"><a href="https://www.linkedin.com/in/mohammedhanis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://twitter.com/hanisx019" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="anisx019@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://www.instagram.com/ md.hanisx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://www.codechef.com/users/anisx019" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=for-the-badge&&logo=Codechef&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://github.com/hanisx019" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 16px"></a></p>
 
 
-
-## Certifications
-
-- [Full Stack Development](https://www.udemy.com/certificate/UC-275da7c1-c023-4e19-80cf-c9f53da86e9f/) - Udemy , 2025
-
-- [Full Stack Development](https://pwskills.com/learn/certificate/bb6bfc73-ba6e-4155-8e7b-c6759b9321b0/) - Physics Wallah , 2025
-
-- [Responsive Web Development and Design](https://coursera.org/share/d75a9495488956c888da6f9999f73ed0) - University Of  London  , 2025
-
-- [JavaScript Programming](https://www.hackerrank.com/certificates/fe030b5bdfc0) - HackerRank  , 2025
-
-
-
-
-
-## 
-
+```javascript
+const Hanis = {
+  pronouns: "He" | "Him",
+  code: [ Javascript, React, HTML, CSS, MongoDB, NodeJS, Express, TailwindCSS, Bootsrap ],
+  tools: [ Postman, Redux, Node, Figma, Styled-Components ],
+  askMeAbout: [
+    "webdev",
+  ],
+ challenge: "Currently working on building a authentication system for web applications"
+}
 ```
-  _                 _           ___  _  ___  
- | |__   __ _ _ __ (_)_____  __/ _ \/ |/ _ \ 
- | '_ \ / _` | '_ \| / __\ \/ / | | | | (_) |
- | | | | (_| | | | | \__ \>  <| |_| | |\__, |
- |_| |_|\__,_|_| |_|_|___/_/\_\\___/|_|  /_/ 
-                                             
-```
+
+##
+
+ **<h3 align="left">Tech Stacks</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="28" alt="Mongoose" style="margin-right: 18px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 18px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 18px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 18px"></div>
+
+##
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=hanisx019&theme=merko&hide_border=true&date_format=d+F%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&border_radius=10&locale=en&exclude_days=&disable_animations=false" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanisx019&theme=merko&hide_title=true&layout=normal&langs_count=10&hide_progress=false&card_width=400&hide_border=true&border_radius=10&disable_animations=false" alt="GitHub top-langs Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hanisx019&repo=Spotify-Clone&show_owner=true&hide_border=true&theme=merko&border_radius=10" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanisx019&theme=merko&cache_seconds=1800&border_radius=10&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&hide_border=true&rank_icon=github&number_format=short&text_bold=false&show=" alt="GitHub stats Card" />
+</p>
+
+##
+
+ **<h3 align="left">GitHub Activity Graph</h3>**
+ 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hanisx019&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanisx019/hanisx019/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanisx019/hanisx019/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hanisx019/hanisx019/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+
+
