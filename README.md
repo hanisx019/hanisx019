@@ -15,7 +15,7 @@
 ```javascript
 const Hanis = {
   pronouns: "He" | "Him",
-  code: [ Javascript, ReactJS, NextJs, ThreeJS, GSAP, HTML, CSS, MongoDB, NodeJS, Express, TailwindCSS, Bootsrap, Framer-Motion],
+  code: [ Javascript, ReactJS, NextJs, ThreeJS, GSAP, MongoDB, NodeJS, Express, TailwindCSS, Bootsrap, Framer-Motion, HTML, CSS],
   tools: [ Postman, JestJS, Redux, Node, Figma, Styled-Components ],
   askMeAbout: [
     "webdev",
